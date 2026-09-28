@@ -1,0 +1,14 @@
+.task-stats {
+  margin: 1.25rem 0 0;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 0.75rem;
+  color: var(--muted);
+  font-size: 0.925rem;
+}
+
+.task-stats__sep {
+  color: var(--border);
+}
